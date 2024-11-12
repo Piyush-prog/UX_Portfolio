@@ -1,0 +1,45 @@
+body {
+    color: white;
+}
+
+footer {
+    background-color: black;
+    padding: 3% 8%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.foot-brand {
+    width: 60%;
+    text-align: left;
+    
+    .icon {
+        margin-bottom: 10px;
+         
+        .brand-bi {
+            font-size: 4rem;
+        }
+    }
+
+
+    .tagline {
+        font-size: 1rem;
+    }
+}
+
+.contact {
+    .icons {
+        gap: 15px;
+        justify-content: end;
+        margin-bottom: 20px;
+
+        .icon{
+            font-size: 1.25rem;
+        }
+    }
+
+    .info {
+        text-align: right;
+    }
+}
+

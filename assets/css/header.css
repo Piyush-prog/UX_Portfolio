@@ -1,0 +1,23 @@
+.navbar-container {
+    display: flex;
+}
+
+.nav-bi {
+    color: white;
+    margin: 0 1rem;
+}
+
+.brand {
+    .brand-bi {
+        font-size: 36px;
+    }
+}
+
+
+.icons {
+    display: flex;
+}
+
+.custom-navbar {
+    background-color: black;
+}
