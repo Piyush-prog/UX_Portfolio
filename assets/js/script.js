@@ -11,3 +11,4 @@ function loadHTML(elementId, filePath) {
 loadHTML("header-placeholder", "../../components/header.html");
 loadHTML("footer-placeholder", "../../components/footer.html");
 loadHTML("form-placeholder", "../../components/contact-form.html");
+loadHTML("skills-placeholder", "../../components/skills.html");
