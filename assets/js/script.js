@@ -10,3 +10,4 @@ function loadHTML(elementId, filePath) {
 // Load the header and footer
 loadHTML("header-placeholder", "../../components/header.html");
 loadHTML("footer-placeholder", "../../components/footer.html");
+loadHTML("form-placeholder", "../../components/contact-form.html");
