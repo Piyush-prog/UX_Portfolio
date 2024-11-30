@@ -10,5 +10,8 @@ function loadHTML(elementId, filePath) {
 // Load the header and footer
 loadHTML("header-placeholder", "../../components/header.html");
 loadHTML("footer-placeholder", "../../components/footer.html");
-loadHTML("form-placeholder", "../../components/contact-form.html");
 loadHTML("skills-placeholder", "../../components/skills.html");
+loadHTML("conscious_cravings", "../../components/project_cards/conscious_cravings.html");
+loadHTML("home_away_from_home", "../../components/project_cards/home_away_from_home.html");
+loadHTML("building_credit_confidence", "../../components/project_cards/building_credit_confidence.html");
+loadHTML("explorations_graphic_design", "../../components/project_cards/explorations_graphic_design.html");

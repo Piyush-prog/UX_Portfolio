@@ -1,5 +1,5 @@
 .background-image {
-    background-image: url('../images/projects/conscious_cravings/thumbnail.jpg') !important;
+    background-image: url('../../images/projects/conscious_cravings/thumbnail.jpg') !important;
 }
 
 .tagline-container {
@@ -10,4 +10,3 @@
 .featured-projects {
     background-color: rgb(24, 24, 24) !important;
 }
-
