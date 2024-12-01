@@ -1,5 +1,5 @@
 .background-image {
-    background-image: url('../../images/projects/home_away_from_home/thumbnail.jpg') !important;
+    background-image: url('/assets/images/projects/home_away_from_home/thumbnail.jpg') !important;
 }
 
 .overlay {
