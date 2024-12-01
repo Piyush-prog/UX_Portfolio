@@ -18,6 +18,10 @@
     display: flex;
 }
 
+.nav-link {
+    margin: 0 20px;
+}
+
 .custom-navbar {
     background-color: black;
 }

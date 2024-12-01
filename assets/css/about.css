@@ -1,0 +1,43 @@
+.background-image {
+    background-image: url('/assets/images/about/thumbnail.jpg') !important;
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.3) !important;
+}
+
+.tagline-container {
+    height: 30vh !important;
+    align-items: center;
+    color: black !important;
+}
+
+.intro {
+    display: flex;
+    margin: 15vh 0;
+
+    .intro-text {
+        font-size: 36px;
+        width: 60%;
+    }
+
+    .intro-image {
+        width: 30%;
+    }
+
+    .profile-image {
+        width: 25vw;
+    }
+}
+
+.content-separator {
+    margin: 30px 0;
+    border-bottom: 3px solid grey;
+    width: 20%;
+    align-self: center;
+}
+
+.journey-text {
+    font-size: 30px;
+    margin: 30px 0;
+}

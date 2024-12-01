@@ -1,5 +1,9 @@
 .background-image {
-    background-image: url('../../images/projects/conscious_cravings/thumbnail.jpg') !important;
+    background-image: url('/assets/images/projects/conscious_cravings/thumbnail.jpg') !important;
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.3) !important;
 }
 
 .tagline-container {
@@ -9,4 +13,31 @@
 
 .featured-projects {
     background-color: rgb(24, 24, 24) !important;
+}
+
+#footer-placeholder, #header-placeholder {
+    color: white;
+}
+
+.content-separator {
+    margin: 30px 0;
+    border-bottom: 3px solid grey;
+    width: 20%;
+    align-self: center;
+}
+
+.content-section {
+    margin: 30px 0;
+
+    .content-desc {
+        margin-top: 20px;
+    }
+
+    .li-title {
+        font-weight: bold;
+    }
+}
+
+.li {
+    margin: 20px 0;
 }

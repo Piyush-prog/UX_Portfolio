@@ -1,5 +1,9 @@
 .background-image {
-    background-image: url('../images/projects/conscious_cravings/thumbnail.jpg') !important;
+    background-image: url('/assets/images/projects/conscious_cravings/thumbnail.jpg') !important;
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.3) !important;
 }
 
 .tagline-container {

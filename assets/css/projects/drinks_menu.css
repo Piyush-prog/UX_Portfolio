@@ -1,0 +1,61 @@
+.background-image {
+    background-image: url('/assets/images/projects/drinks_menu/thumbnail.jpg') !important;
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.3) !important;
+}
+
+.tagline-container {
+    height: 30vh !important;
+    align-items: center;
+}
+
+.featured-projects {
+    background-color: rgb(24, 24, 24) !important;
+}
+
+#footer-placeholder, #header-placeholder {
+    color: white;
+}
+
+.images {
+    display: flex;
+    justify-content: space-around;
+}
+
+.content-image {
+    width: 48% !important;
+    align-self: center !important;
+}
+
+.mood-board {
+    width: 80% !important;
+}
+
+.main-image {
+    width: 60% !important;
+}
+
+.content-separator {
+    margin: 30px 0;
+    border-bottom: 3px solid grey;
+    width: 20%;
+    align-self: center;
+}
+
+.content-section {
+    margin: 30px 0;
+
+    .content-desc {
+        margin-top: 20px;
+    }
+
+    .li-title {
+        font-weight: bold;
+    }
+}
+
+.li {
+    margin: 20px 0;
+}
